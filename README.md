@@ -45,7 +45,7 @@ streamlit run app.py
 4.Open the app in your web browser and enter a message to see if it's spam or ham.
 
 ## Live Demo
-You can try the Spam Message Classifier app [here](https://spam-classifier-nb-d3kss2cktqikx7jvprzeoc.streamlit.app/)
+You can try the Spam Message Classifier app [here](https://spam-classifier-nb-hrk4ursw4tqbcd58uevuvm.streamlit.app/)
 
 
 ## Project Structure
